@@ -1,6 +1,6 @@
-# CycHanoiTower
+#CycHanoiTower#
 
-##two towers
+##two towers##
 
 |  -  |     |     |
 | --- |     |     |
@@ -31,7 +31,7 @@ Step 5:
 |     | --- |     |
 -------------------
 
-##for n + 1 towsrs
+##for n + 1 towsrs##
 
 
 |    -    |         |         | Move the small tower one peg to the right
